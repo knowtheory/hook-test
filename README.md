@@ -8,3 +8,4 @@
 - almost there
 - Ah it was a problem with the fact that cron doesn't use bash by default.
 - wtf
+- try with shebang
